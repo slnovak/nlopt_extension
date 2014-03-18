@@ -1,0 +1,5 @@
+Name: NLOptWrapper
+Description: 
+Version: 0.1
+Libs: -L"/Users/stefan/projects/NLOptExtension/NLOptWrapper/bin/Debug" -lNLOptWrapper
+Cflags: -I"/Users/stefan/projects/NLOptExtension/NLOptWrapper"
